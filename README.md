@@ -9,3 +9,6 @@ Learn more about the architecture of a Fitbit application in the [Application Ar
 Fitbit provide a device and phone simulator which allows you to build applications and clock faces for Fitbit OS, without the need to purchase a device.
 You can download it for [Windows](https://simulator-updates.fitbit.com/download/latest/win) or [macOS](https://simulator-updates.fitbit.com/download/latest/mac).
 >In order to publish your applications in the Fitbit App Gallery, you will need a Fitbit OS device associated with your Fitbit account.
+## Using the Fitbit Studio
+Login to [Fitbit Studio](https://studio.fitbit.com/projects)
+>You must be logged into Fitbit Studio with the same Fitbit account that you're using in the simulator, or on your mobile device.
